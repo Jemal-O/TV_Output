@@ -1,0 +1,36 @@
+.main{
+margin:0 auto;
+weight: 120%;
+ background: fixed url(../image/bgr.jpg);
+    background-image: url(../image/bgr.jpg) ;
+    background-position-x: initial;
+    background-position-y: initial;
+    background-size: cover;
+    background-repeat-x: repeat;
+    background-repeat-y: repeat;
+    background-attachment: fixed;
+    background-origin: initial;
+    background-clip: initial;
+    background-color: initial;
+}
+ 
+.book{
+width:1100px;
+height:900px;
+float:left;
+margin:10px;
+border:1px #dedede solid;
+padding:5px;
+display:none;
+}
+
+.title{
+margin-bottom:6px;}
+ 
+.description{font-size:20px; font-family:Geneva, Arial, Helvetica, sans-serif;}
+
+.date{font-size:20px; color:#dedede; margin-top:4px;}
+
+.loader{
+height:20px;
+}
